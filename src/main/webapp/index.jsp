@@ -1,10 +1,6 @@
-Última prueba para el pipeline
-Nueva prueba...
-Un cambio para el pipeline
-Estoy haciendo un cambio para el WebHook
-Estoy haciendo un cambio en el fichero
 <html>
 <body>
 <h2>Hello World!</h2>
+<h2>Me ha gustado mucho esta práctica</h2>
 </body>
 </html>
