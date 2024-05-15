@@ -1,4 +1,4 @@
-Nueva prueba.
+Nueva prueba..
 Un cambio para el pipeline
 Estoy haciendo un cambio para el WebHook
 Estoy haciendo un cambio en el fichero
